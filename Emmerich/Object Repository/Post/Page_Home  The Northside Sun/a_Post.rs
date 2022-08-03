@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Post</name>
+   <tag></tag>
+   <elementGuidId>d963e0fb-e0be-49e7-b64e-a5b23f1047b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='block-mainnavigation']/div/nav/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.we-mega-menu-li.dropdown-menu.reader-postmenu > a.we-mega-menu-li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ceab0473-0e44-4012-b29d-b2cbc4fe411a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>we-mega-menu-li</value>
+      <webElementGuid>c30889aa-77dc-42bd-81e2-c9b4004c58ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/post_dashboard</value>
+      <webElementGuid>fbd28ea0-e71a-4f81-a9aa-1e8c9d8cbcbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Post    </value>
+      <webElementGuid>d273a5ab-7a0c-4440-a237-7934cbbb7d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-mainnavigation&quot;)/div[@class=&quot;region-we-mega-menu&quot;]/nav[@class=&quot;main navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;we-mega-menu-ul nav nav-tabs menu nav&quot;]/li[@class=&quot;we-mega-menu-li dropdown-menu reader-postmenu&quot;]/a[@class=&quot;we-mega-menu-li&quot;]</value>
+      <webElementGuid>78c0143b-d36b-4c37-b009-23b63ef5b6ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='block-mainnavigation']/div/nav/div/ul/li[2]/a</value>
+      <webElementGuid>0deaa6f7-d2c0-496e-8914-2e0fd972e0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Post')])[2]</value>
+      <webElementGuid>17826f79-5771-47f7-b2a5-5b63898f3c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report a Bug'])[1]/following::a[1]</value>
+      <webElementGuid>a04ee38d-95f8-4869-b32a-b654a9ce6451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::a[2]</value>
+      <webElementGuid>99344dff-55f7-42e2-8599-3792572d09d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Dashboard'])[1]/preceding::a[1]</value>
+      <webElementGuid>59357fac-1949-4340-8cde-b3289d5b759a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Posts'])[1]/preceding::a[2]</value>
+      <webElementGuid>f2a40274-3120-41e5-a675-fa25fc020adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/post_dashboard')]</value>
+      <webElementGuid>07f6600c-3c33-41cd-8929-fef6476336c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a</value>
+      <webElementGuid>ad60c638-b725-45e2-a456-e099459ddc6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/post_dashboard' and (text() = '
+      Post    ' or . = '
+      Post    ')]</value>
+      <webElementGuid>61fe0e78-c0af-42fa-abde-6e7bf29e58ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

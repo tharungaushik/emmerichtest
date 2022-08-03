@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Friends</name>
+   <tag></tag>
+   <elementGuidId>e4c839d9-1689-480a-a1b5-6902bcdead6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='block-mainnavigation']/div/nav/div/ul/li[2]/div/div/div/div/ul/li[4]/div/div/div/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.nav-tabs.subul > li.we-mega-menu-li.dropdown-menu > div.we-mega-menu-submenu > div.we-mega-menu-submenu-inner > div.we-mega-menu-row > div.we-mega-menu-col.span12 > ul.nav.nav-tabs.subul > li.we-mega-menu-li > a.we-mega-menu-li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>afd910a5-e162-4906-ac03-5ac7711de4b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>we-mega-menu-li</value>
+      <webElementGuid>f6752cc8-2785-44bd-803a-9481648b77b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/public-feed</value>
+      <webElementGuid>ed5b6acf-a0e1-4d61-a33b-420b9823e4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Friends    </value>
+      <webElementGuid>9b3a8712-a113-476d-a3d6-6d5931835fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-mainnavigation&quot;)/div[@class=&quot;region-we-mega-menu&quot;]/nav[@class=&quot;main navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action&quot;]/div[@class=&quot;container-fluid&quot;]/ul[@class=&quot;we-mega-menu-ul nav nav-tabs menu nav&quot;]/li[@class=&quot;we-mega-menu-li dropdown-menu reader-postmenu&quot;]/div[@class=&quot;we-mega-menu-submenu&quot;]/div[@class=&quot;we-mega-menu-submenu-inner&quot;]/div[@class=&quot;we-mega-menu-row&quot;]/div[@class=&quot;we-mega-menu-col span12&quot;]/ul[@class=&quot;nav nav-tabs subul&quot;]/li[@class=&quot;we-mega-menu-li dropdown-menu&quot;]/div[@class=&quot;we-mega-menu-submenu&quot;]/div[@class=&quot;we-mega-menu-submenu-inner&quot;]/div[@class=&quot;we-mega-menu-row&quot;]/div[@class=&quot;we-mega-menu-col span12&quot;]/ul[@class=&quot;nav nav-tabs subul&quot;]/li[@class=&quot;we-mega-menu-li&quot;]/a[@class=&quot;we-mega-menu-li&quot;]</value>
+      <webElementGuid>4c5def76-3b68-45e6-a8c2-5aa0f91b908f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='block-mainnavigation']/div/nav/div/ul/li[2]/div/div/div/div/ul/li[4]/div/div/div/div/ul/li/a</value>
+      <webElementGuid>3a9f53af-5b46-4478-a2f9-15af76a49fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Friends')]</value>
+      <webElementGuid>f13fdb39-486b-4ee9-8e80-89bbde83a674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit a new post'])[1]/following::a[1]</value>
+      <webElementGuid>0f8e1cfb-61ef-414c-96c6-2bd30285efc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Public Profile'])[1]/following::a[2]</value>
+      <webElementGuid>e92848b5-c1d5-4062-a487-df01d5b71c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neighbors'])[1]/preceding::a[1]</value>
+      <webElementGuid>110323b2-6c16-4ce1-af5a-d665352a2895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/preceding::a[2]</value>
+      <webElementGuid>2c7b0b54-e700-4a62-8f17-d33ddfc5a44b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Friends']/parent::*</value>
+      <webElementGuid>148773dd-1cb2-447a-ac17-1e29cfe21bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/public-feed')]</value>
+      <webElementGuid>b1965477-37c0-4951-b4d4-9c6f70161dda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div/div/div/ul/li/a</value>
+      <webElementGuid>535d0454-45ab-4d1f-93ff-74bbd1101652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/public-feed' and (text() = '
+      Friends    ' or . = '
+      Friends    ')]</value>
+      <webElementGuid>eb483d5c-035a-4d06-892d-f5fce3335032</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FirstLogin,Chrome 103.0.5060.134,,,2022-07-26 19:22:32,2022-07-26 19:23:16,44.425s,PASSED
+,,,,,,,
+Test Cases/Post/01Submit new post,Chrome 103.0.5060.134,,,2022-07-26 19:22:32,2022-07-26 19:23:16,44.072s,PASSED
+"callTestCase(findTestCase(""01Login/Login""), [:], STOP_ON_FAILURE)",Chrome 103.0.5060.134,,,2022-07-26 19:22:32,2022-07-26 19:23:04,31.285s,PASSED
+"mouseOver(findTestObject(""Object Repository/Post/Page_Home  The Northside Sun/a_Post""))",Chrome 103.0.5060.134,,,2022-07-26 19:23:04,2022-07-26 19:23:04,0.781s,PASSED
+"mouseOver(findTestObject(""Object Repository/Post/Page_testUAT/a_Submit a new post""))",Chrome 103.0.5060.134,,,2022-07-26 19:23:04,2022-07-26 19:23:05,0.691s,PASSED
+"click(findTestObject(""Object Repository/Post/Page_testUAT/a_Friends""))",Chrome 103.0.5060.134,,,2022-07-26 19:23:05,2022-07-26 19:23:15,10.107s,PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-07-26 19:23:15,2022-07-26 19:23:16,0.866s,PASSED
